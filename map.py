@@ -1,0 +1,2 @@
+print("ку")
+print("Test")
